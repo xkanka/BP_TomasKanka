@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "282458431275",
+    "project_id": "bakalar-kano",
+    "storage_bucket": "bakalar-kano.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282458431275:android:b5f69c19074c5171f42f6e",
+        "android_client_info": {
+          "package_name": "com.example.bp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282458431275-3jpmutj4h43e0vd2h3l1svf0ct9v7gdb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "282458431275-7ir0tgs21h9hs5na8e92i0s40g8s3kbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE7E0nyGEpZoKj42inq3JCOgdrQlibIc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282458431275-7ir0tgs21h9hs5na8e92i0s40g8s3kbk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "282458431275-3oam4p8f9ltjpgtj68or722vkn3h85v6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kano.fit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282458431275:android:b2deac405b3cd1e7f42f6e",
+        "android_client_info": {
+          "package_name": "com.kano.fit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282458431275-3l5khs29jl3qtnch9dh4mu8b11mh7s4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kano.fit",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "282458431275-7ir0tgs21h9hs5na8e92i0s40g8s3kbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE7E0nyGEpZoKj42inq3JCOgdrQlibIc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282458431275-7ir0tgs21h9hs5na8e92i0s40g8s3kbk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "282458431275-3oam4p8f9ltjpgtj68or722vkn3h85v6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kano.fit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
